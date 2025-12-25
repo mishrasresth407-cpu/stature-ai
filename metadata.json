@@ -1,0 +1,7 @@
+{
+  "name": "StatureAI",
+  "description": "A scientific height estimation tool that utilizes computer vision and anthropometric modeling to estimate human stature from images.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
